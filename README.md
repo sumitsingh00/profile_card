@@ -1,4 +1,7 @@
-In the /profile card, you can run:
+In the profile card
+run on terminal: 
+
+### `npm i `
 
 ### `npm i vite`
 
